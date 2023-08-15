@@ -12,3 +12,4 @@ def validate(number)
 end
 
 puts validate(number)
+
